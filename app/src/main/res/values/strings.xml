@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Deliver</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login_button">Login</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="category">category</string>
+    <string name="source">Source</string>
+    <string name="deliveryAddress">Delivery Address</string>
+    <string name="amount">Amount</string>
+    <string name="details">Details</string>
+    <string name="create_order_button">Order</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="fullNameSignUp">Full Name</string>
+    <string name="emailSignUp">Email address</string>
+    <string name="passwordSignUp">Password</string>
+    <string name="confirmPwdSignUp">Confirm password</string>
+    <string name="addressSignUp">Address</string>
+    <string name="citySignUp">City</string>
+    <string name="zipSignUp">Zip-code</string>
+    <string name="navToSignupButton">SignUp</string>
+    <string name="signup_button">SignUp</string>
+    <string name="phoneSignUp">Phone number</string>
+</resources>
